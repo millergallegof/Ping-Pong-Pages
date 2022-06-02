@@ -1,0 +1,262 @@
+{
+    "Categoria1": [
+        {
+            "Pregunta1": "¿Cual es la capital de Colombia?",
+            "Opciones": [
+                "Maracaibo",
+                "Bogota D.C",
+                "Washington D.C",
+                "Medellin"
+            ],
+            "Respuesta": "Bogota D.C"
+        },
+        {
+            "Pregunta2": "¿En qué continente está Ecuador?",
+            "Opciones": [
+                "Antartida",
+                "America",
+                "America del Sur",
+                "Asia"
+            ],
+            "Respuesta": "America"
+        },
+        {
+            "Pregunta3": "¿Qué tipo de animal es la ballena?",
+            "Opciones": [
+                "Hongo",
+                "Oviparo",
+                "Omnivoro",
+                "Mamifero"
+            ],
+            "Respuesta": "Mamifero"
+        },
+        {
+            "Pregunta4": "¿Cómo se denomina el resultado de la multiplicación?",
+            "Opciones": [
+                "Suma",
+                "Programacion funcional",
+                "Resta",
+                "Producto"
+            ],
+            "Respuesta": "Producto"
+        },
+        {
+            "Pregunta5": "¿Quién es el famoso Rey de Rock en los Estados Unidos?",
+            "Opciones": [
+                "Michael jackson",
+                "Daddy Yanke",
+                "Shrek",
+                "Elvis Presley"
+            ],
+            "Respuesta": "Elvis Presley"
+        }
+    ],
+    "Categoria2": [
+        {
+            "Pregunta1": "¿Cuál es el lugar más frío de la tierra?",
+            "Opciones": [
+                "La patagonia",
+                "Antartida",
+                "Alaska",
+                "Boyaca"
+            ],
+            "Respuesta": "Antartida"
+        },
+        {
+            "Pregunta2": "¿Cómo se llama la Reina del Reino Unido?",
+            "Opciones": [
+                "Isabella II",
+                "Isabella I",
+                "Isabella",
+                "La reina Isabella"
+            ],
+            "Respuesta": "Isabella II"
+        },
+        {
+            "Pregunta3": "¿De qué colores es la bandera de México?",
+            "Opciones": [
+                "Amarillo, Azul y Verde",
+                "Verde, Blanco y Rojo",
+                "Rojo y Blanco",
+                "Verde y Rojo"
+            ],
+            "Respuesta": "Verde, Blanco y Rojo"
+        },
+        {
+            "Pregunta4": "¿Qué cantidad de huesos en el cuerpo humano?",
+            "Opciones": [
+                "306",
+                "206",
+                "215",
+                "102"
+            ],
+            "Respuesta": "206"
+        },
+        {
+            "Pregunta5": "¿En qué país se encuentra la torre de Pisa?",
+            "Opciones": [
+                "Italia",
+                "Francia",
+                "Portugal",
+                "Madrid"
+            ],
+            "Respuesta": "Italia"
+        }
+    ],
+    "Categoria3": [
+        {
+            "Pregunta1": "¿Cuál es el océano más grande?",
+            "Opciones": [
+                "Mar muerto",
+                "Oceano Atlantico",
+                "Oceano Grande",
+                "Oceano Pacifico"
+            ],
+            "Respuesta": "Oceano Pacifico"
+        },
+        {
+            "Pregunta2": "¿Qué año llegó Cristóbal Colón a América?",
+            "Opciones": [
+                "1997",
+                "1942",
+                "1945",
+                "1492"
+            ],
+            "Respuesta": "1492"
+        },
+        {
+            "Pregunta3": "¿Cuál es el disco más vendido de la historia?",
+            "Opciones": [
+                "Despacito",
+                "Bivhota",
+                "Thriller",
+                "Noelia"
+            ],
+            "Respuesta": "Thriller"
+        },
+        {
+            "Pregunta4": "¿Cuál es el país más grande del mundo?",
+            "Opciones": [
+                "Argentina",
+                "Brasil",
+                "Australia",
+                "Rusia"
+            ],
+            "Respuesta": "Rusia"
+        },
+        {
+            "Pregunta5": "¿Dónde se encuentra la famosa Torre Eiffel?",
+            "Opciones": [
+                "Italia",
+                "España",
+                "Portugal",
+                "Francia"
+            ],
+            "Respuesta": "Francia"
+        }
+    ],
+    "Categoria4": [
+        {
+            "Pregunta1": "¿En qué año comenzó la II Guerra Mundial?",
+            "Opciones": [
+                "1939",
+                "1942",
+                "1492",
+                "1993"
+            ],
+            "Respuesta": "1939"
+        },
+        {
+            "Pregunta2": "¿Cuál es tercer planeta en el sistema solar?",
+            "Opciones": [
+                "Marte",
+                "Tierra",
+                "Mercurio",
+                "Venus"
+            ],
+            "Respuesta": "Tierra"
+        },
+        {
+            "Pregunta3": "¿Qué país tiene forma de bota?",
+            "Opciones": [
+                "Colombia",
+                "Argentina",
+                "Mexico",
+                "Italia"
+            ],
+            "Respuesta": "Italia"
+        },
+        {
+            "Pregunta4": "¿Cuál es la moneda del Reino Unido?",
+            "Opciones": [
+                "Peso Mexicano",
+                "Dolar",
+                "Euro",
+                "Libra"
+            ],
+            "Respuesta": "Rusia"
+        },
+        {
+            "Pregunta5": "¿Dónde se encuentra la famosa Torre Eiffel?",
+            "Opciones": [
+                "Italia",
+                "España",
+                "Portugal",
+                "Francia"
+            ],
+            "Respuesta": "Francia"
+        }
+    ],
+    "Categoria5": [
+        {
+            "Pregunta1": "¿Cual es país más poblado de la Tierra?",
+            "Opciones": [
+                "Rusia",
+                "india",
+                "China",
+                "Colombia"
+            ],
+            "Respuesta": "China"
+        },
+        {
+            "Pregunta2": "¿Qué rama de la Biología estudia los animales?",
+            "Opciones": [
+                "Topografia",
+                "Zoologia",
+                "Biometria",
+                "Zootecnia"
+            ],
+            "Respuesta": "Zoologia"
+        },
+        {
+            "Pregunta3": "¿Con qué se fabricaba el pergamino?",
+            "Opciones": [
+                "Papiro",
+                "Papel",
+                "Piel de Animales",
+                "Piel de Culebra"
+            ],
+            "Respuesta": "Piel de Animales"
+        },
+        {
+            "Pregunta4": "¿Cuál es la ciudad de los rascacielos??",
+            "Opciones": [
+                "Nueva York",
+                "Bogota",
+                "Mexico",
+                "Maiami"
+            ],
+            "Respuesta": "Nueva York"
+        },
+        {
+            "Pregunta5": "¿Cuál fue el primer metal que empleó el hombre?",
+            "Opciones": [
+                "Hierro",
+                "Oro",
+                "Cobre",
+                "Plata"
+            ],
+            "Respuesta": "Cobre"
+        }
+    ]
+}
