@@ -1,0 +1,77 @@
+:root {
+    --primary-color: hsl(213, 46%, 12%);
+    --text-color: hsl(0, 0%, 31%);
+    --headings-color: hsl(0, 0%, 57%);
+    --bg-color: hsl(0, 0%, 90%);
+    --bg-card-color: hsl(0, 0%, 98%);
+    --transition: color 0.1s, background-color 0.2s ease-in-out;
+    --box-shadow: 5px 0 15px rgb(0 0 0 / 0.2);
+    --border-radius: 0.4em;
+    --skill-bar-length: 0%;
+}
+
+
+.skills {
+    padding: 2em 0;
+}
+
+.skills__header {
+    position: relative;
+    width: 175px;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skills__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline-start: 12em;
+
+}
+
+.skillsBar,
+.skillsBar::after {
+    position: relative;
+    width: 16px;
+    height: 500px;
+    background-color: #888;
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
+.skillsBar::after {
+    content: '';
+    position: absolute;
+    bottom: -500px;
+    background-color: var(--primary-color);
+    transition: var(--transition);
+    animation: skill-bar 2s forwards ease-in-out;
+}
+
+.skillsBar--20::after {
+    --skill-bar-length: -20%;
+}
+
+.skillsBar--40::after {
+    --skill-bar-length: -40%;
+}
+
+.skillsBar--60::after {
+    --skill-bar-length: -60%;
+}
+
+.skillsBar--80::after {
+    --skill-bar-length: -80%;
+}
+
+.skillsBar--100::after {
+    --skill-bar-length: -100%;
+}
+
+@keyframes skill-bar {
+    to {
+        transform: translateY(var(--skill-bar-length));
+    }
+}

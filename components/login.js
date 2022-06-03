@@ -55,7 +55,6 @@ function almacenarDato(user) {
 
 loginInput.addEventListener('change', (e) => {
     e.preventDefault();
-
     almacenarDato(e.target.value);
 })
 
@@ -63,6 +62,7 @@ loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
     localStorage.setItem(nickname, value);
     localStorage.setItem("usuario_logueado", nickname)
+    localStorage.setItem("level", 1)
     loginInput.value = ""
     validacionUser();
 })
