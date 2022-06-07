@@ -116,7 +116,7 @@ function linguee() {
 function restart(params) {
     localStorage.setItem(usuario, 0)
     localStorage.setItem("level", 1)
-    window.location.href = 'index.html'
+    window.location.href = '/index.html'
 }
 
 function cargarLogin() {
